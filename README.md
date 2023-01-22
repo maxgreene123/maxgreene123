@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-- 🌱 I’m currently learning C#
 
 - 📫 How to reach me **max.greene06@gmail.com**
 
